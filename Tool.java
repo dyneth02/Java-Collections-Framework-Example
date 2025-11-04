@@ -22,5 +22,10 @@ public class Tool {
 	public Double getUnitPrice() {
 		return unitPrice;
 	}
+
+	public void setProductName(String pName) {
+		this.productName = pName;
+	}
 }
+
 
