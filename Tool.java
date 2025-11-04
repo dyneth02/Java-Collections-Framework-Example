@@ -1,5 +1,3 @@
-package version_e.q2;
-
 public class Tool {
 	private String productName;
 	private Integer quantity;
@@ -25,3 +23,4 @@ public class Tool {
 		return unitPrice;
 	}
 }
+
