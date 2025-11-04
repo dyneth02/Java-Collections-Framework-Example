@@ -26,6 +26,11 @@ public class Tool {
 	public void setProductName(String pName) {
 		this.productName = pName;
 	}
+
+	public void setQuantity(Integer qty) {
+		this.quantity = qty;
+	}
 }
+
 
 
