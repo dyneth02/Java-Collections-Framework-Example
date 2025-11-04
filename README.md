@@ -62,7 +62,16 @@ Used as the value object in the inventory HashMap.
 
 ## ⚙️ How to Run
 
-1. **Clone the Repository**
+**Clone the Repository**
    ```bash
    git clone https://github.com/<your-username>/Java-Collections-Framework-Examples.git
    cd Java-Collections-Framework-Examples
+
+🧠 Concepts Demonstrated
+| Concept           | Description                               |
+| ----------------- | ----------------------------------------- |
+| **PriorityQueue** | For ordered book title management         |
+| **HashMap**       | For efficient key-value product inventory |
+| **Generics**      | For compile-time type safety              |
+| **Encapsulation** | Through the Tool (Product) class          |
+| **Polymorphism**  | Used via overridden `toString()` methods  |
