@@ -30,7 +30,12 @@ public class Tool {
 	public void setQuantity(Integer qty) {
 		this.quantity = qty;
 	}
+
+	public void setUnitPrice(Double uPrice) {
+		this.unitPrice = uPrice;
+	}
 }
+
 
 
 
