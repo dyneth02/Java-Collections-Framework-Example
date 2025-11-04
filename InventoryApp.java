@@ -1,5 +1,3 @@
-package version_e.q2;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -60,3 +58,4 @@ public class InventoryApp {
 		}
 	}
 }
+
